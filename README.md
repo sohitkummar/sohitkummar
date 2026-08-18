@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working in operations at **Uisce Éireann** (via Capita)
+- 🔭 Currently working in operations at **Uisce Éireann** (via EllioCX)
   — using Oracle C2M, IBM Maximo & GIS spatial tools daily
 - 🎓 **MSc Data Science & Analytics** — University College Cork (2:1)
 - 📚 **B.Tech Computer Science & Engineering** (Data Science) — Sharda University (1:1)
